@@ -7,7 +7,7 @@ int main() {
     int i;
 
     for(i = 1; i <= a; i++) {
-        if (i % 3 != 0 or i % 10 != 3) {
+        if (i % 3 != 0 and i % 10 != 3) {
             a++;
             continue;
         }
