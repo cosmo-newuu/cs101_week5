@@ -17,5 +17,6 @@
             cout << endl;
             a--;
         }
-
+    return 0;
+    
     }
